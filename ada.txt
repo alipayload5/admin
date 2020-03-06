@@ -1,0 +1,5 @@
+name = ada
+age = dasd
+phon = as dasdasd
+gmail = asdsadasd
+password = asdasdas
