@@ -1,5 +1,1 @@
-name = sss
-age = sad
-phon = sadsadsa
-gmail = asdasd
-password = sadsad
+max
