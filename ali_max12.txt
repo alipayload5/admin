@@ -1,5 +1,0 @@
-name = ali_max12
-age = 11
-phon = 21321321321
-gmail = aasassa@asadsa
-password = 12e12e21e21
