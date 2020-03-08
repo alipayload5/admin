@@ -1,5 +1,0 @@
-name = ali99
-age = 66
-phon = 56546364
-gmail = ali01113925818@gmail.com
-password = 01123445677ali
