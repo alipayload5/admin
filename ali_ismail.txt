@@ -1,0 +1,5 @@
+name = ali_ismail
+age = 20
+phon = 01228232755
+gmail = ali01113925818@gamil.com
+password = 01123445677ali
